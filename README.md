@@ -27,6 +27,6 @@ With Nix (flakes):
 nix profile install github:Nughm3/raysweep
 ```
 
-### LICENSE
+## Licensing
 
 Licensed under the [Unlicense](/LICENSE).
